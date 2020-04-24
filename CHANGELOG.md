@@ -1,5 +1,11 @@
 # heroku-buildpack-php CHANGELOG
 
+## Unreleased
+
+### CHG
+
+- Explicitly call `python2` rather than `python` [Ed Morley]
+
 ## v173 (2020-03-20)
 
 ### ADD
